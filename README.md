@@ -29,5 +29,5 @@ https://github.com/OasisCoinTeam/Proposals/issues
 3. Based on community feedback, refine the proposal to make it more suitable for voting on
 4. Once ready, it will be merged into the 'final' directory of the proposals repository
 5. You will receive a READ-ONLY short link from an Admin
-6. Use the link to submit the proposal on the blockchain. Step by step instructions on how to do this are [here](https://github.com/OasisCoinTeam/oasis/wiki/How-to-Create-a-Proposal)
+6. Use the link to submit the proposal on the blockchain. Step by step instructions on how to do this are [here](https://github.com/OasisCoinTeam/Proposals/blob/master/CREATE_PROPOSAL.md)
 7. Wait for the MasterNode owners to vote on your proposal. Only 1 vote is allowed per MasterNode instance. 
